@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio-web/static/css/main.a4fd1a67.css",
+    "main.js": "/Portfolio-web/static/js/main.cad7ceb4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-web/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Python1.png": "/Portfolio-web/static/media/Python1.902e286062ca83fb1a33.png",
+    "static/media/app1.png": "/Portfolio-web/static/media/app1.f91f49aaef834e5bfe53.png",
+    "static/media/web1.png": "/Portfolio-web/static/media/web1.968a1e7a81939250f6f5.png",
+    "static/media/web2.png": "/Portfolio-web/static/media/web2.17da1d83c1a8838f1045.png",
+    "static/media/piccc.png": "/Portfolio-web/static/media/piccc.5f272a918108b53bbe54.png",
+    "static/media/them1.jpg": "/Portfolio-web/static/media/them1.5e782dd854b5e811107e.jpg",
+    "static/media/codechef.png": "/Portfolio-web/static/media/codechef.400aba84e8ae83ac38b7.png",
+    "static/media/app2.png": "/Portfolio-web/static/media/app2.a444e66dae4dd8971c88.png",
+    "static/media/aiii.jpg": "/Portfolio-web/static/media/aiii.7a6fb805d25d483e7c06.jpg",
+    "static/media/part.jpg": "/Portfolio-web/static/media/part.8d435840f5688127fdc0.jpg",
+    "static/media/ol.jpg": "/Portfolio-web/static/media/ol.49660031d42d4b4b7e0e.jpg",
+    "index.html": "/Portfolio-web/index.html",
+    "main.a4fd1a67.css.map": "/Portfolio-web/static/css/main.a4fd1a67.css.map",
+    "main.cad7ceb4.js.map": "/Portfolio-web/static/js/main.cad7ceb4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-web/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4fd1a67.css",
+    "static/js/main.cad7ceb4.js"
+  ]
+}
