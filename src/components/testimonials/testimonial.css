@@ -1,0 +1,58 @@
+/* #test{
+    background-image: url(../../assets/ol.jpg);
+    object-fit: cover;
+    background-size: cover;
+
+} */
+.testimonial__container{
+    width: 750px;
+}
+.testimonial__card{
+    background-color: var(--container-color);
+    border: 2.4px solid rgba(0, 0, 0, 0.165);
+    padding: 1.5rem 2rem;
+    border-radius: 1.5rem;
+    
+    margin-bottom: var(--mb-3);
+}
+.testimonial__card:hover{
+    background-color: rgba(207, 207, 207, 0.617);
+}
+.testimonial__img{
+    margin-left: 140px;  
+    width: 110px;
+    /* border-radius: 3rem; */
+    margin-bottom: var(--mb-1);
+}
+.testimonial__name{
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    margin-bottom: var(--mb-0-25);
+}
+.testimonial__description{
+    font-size: var(--small-font-size);
+
+}
+/* Swiper Class */
+.swiper-pagination-bullet{
+    background-color: var(--text-color) !important;
+}
+.swiper-pagination-bullet-active{
+    background-color: var(--title-color) !important;
+}
+
+/* ===========BREAKPOINTS=========== */
+/* For Large Device */
+@media screen and (max-width:992px){
+    .testimonial__container{
+        width: initial;
+    }
+    .textimonial__card{
+        padding: 1.25rem, 1.5rem;
+    }
+}
+@media screen and (max-width:400px){
+    .testimonial__img{
+        margin-left: 70px;
+    }
+}
